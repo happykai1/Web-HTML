@@ -1,0 +1,122 @@
+/* CSS Document */
+body{
+	font-family: Tahoma;
+	font-size: 18px;
+	line-height:  1.5em;
+	color: #333333;
+}
+h1{
+	font-family: Tahoma;
+	margin: 0px ;
+	font-size: 2em;
+}
+h2{
+	margin: 0px ;
+	font-size: 1.5em;
+	
+}
+#container{
+	width: 1024px;
+	height: 675px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#container2{
+	width: 1024px;
+	height: 770px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+header{
+	width: 989px;
+	height: 95px;
+	background-color: black;
+	color: #F9F8F8;
+	padding: 35px 0px 0px 35px;
+}
+#titleBar{
+	width: 1024px;
+	height: 35px;
+	background-color:#FFCC00;
+	text-align: center;
+	padding: 15px 0px 0px 0px;
+}
+
+#main{
+	width: 1024px;
+	height: 448px;
+	
+}
+#innerMain{
+	width: 1024px;
+	height: 448px;
+	background-color:#FFCC00;
+	border-radius: 15px 15px 15px 15px;
+	
+}
+#innerMain2{
+	width: 1024px;
+	height: 770px;
+	background-color:#FFCC00;
+	border-radius: 15px 15px 15px 15px;
+	
+}
+
+#innerMain3{
+	width: 1024px;
+	height: 550px;
+	background-color:#FFCC00;
+	border-radius: 15px 15px 15px 15px;
+	
+}
+#main #contentOne{
+	width: 512px;
+	height: 388px;
+	background-color:#FFCC00;
+	float: left;
+	padding: 60px 0px 0px 72px;	
+	border-radius: 15px 0px 0px 15px;
+	
+}
+#main #contentTwo{
+	width: 440px;
+	height: 406px;
+	float: right;
+	background-color:#FFCC00;
+	margin: 42px 0px 0px 0px;
+	overflow: hidden;
+	border-radius: 0px 15px 15px 0px;
+}
+
+#topNav{
+	width: 1009px;
+	height: 35px;
+	padding: 10px 0px 0px 15px;
+}
+#topNav a{
+	color: #f5a06e;
+	text-decoration: none;
+	font-weight: bold;
+	margin-right: 15px;
+	padding: 0px;
+}
+#topNav a:hover{
+	border-bottom: solid;
+	width: 2px;
+	color: #f5a06e;
+}
+#me{
+	
+	font-size: 35px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#contact1{
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
